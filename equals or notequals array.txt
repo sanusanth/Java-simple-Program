@@ -1,0 +1,15 @@
+package equal;
+
+import java.util.Arrays;
+public class Equal {
+    
+    public static void main(String[] args) {
+        int arr1[] = {1, 2, 3, 24};
+        int arr2[] = {1, 2, 3, 24};
+        if (Arrays.equals ( arr1, arr2))
+            System.out.println("A and B are equal");
+        else 
+            System.out.println("A and B are not equal");
+                }
+    
+}

@@ -1,0 +1,17 @@
+package occurrences;
+
+public class occurrences {
+
+    public static void main(String[] args) {
+        int counter = 0;
+        Integer [] numbers = {1,2,2,3,4,2};
+        
+       for (Integer i: numbers )
+       {
+           if (i==2){
+               counter++;
+           } 
+       }
+       System.out.println("number of occurrences of 2 in A = " + " " + counter);
+    } 
+    }
