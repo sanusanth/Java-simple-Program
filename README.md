@@ -8,4 +8,4 @@ download the JDK and install it.
 Set path of the jdk/bin directory. 
 http://www.javatpoint.com/how-to-set-path-in-java
 Create the java program
-Compile and run the java program
+Compile and run the java program.
