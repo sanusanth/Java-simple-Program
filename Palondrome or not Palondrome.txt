@@ -16,4 +16,4 @@ public class Palondrome {
     System.out.println("palindrome");
     else System.out.println("Not palindrome");
     
-}}
+}} // creter by Sanusanth
